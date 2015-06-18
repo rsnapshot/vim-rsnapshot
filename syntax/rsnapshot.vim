@@ -20,6 +20,7 @@ syn keyword rsnapshotOption config_version snapshot_root no_create_root
 							\ interval verbose loglevel logfile lockfile
 							\ ssh_args du_args one_fs include exclude
 							\ link_dest sync_first use_lazy_deletes backup
+							\ retain
 
 " Define the default highlighting.
 " Only used when an item doesn't have highlighting yet
